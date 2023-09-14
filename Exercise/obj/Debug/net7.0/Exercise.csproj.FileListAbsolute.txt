@@ -1,0 +1,15 @@
+/workspaces/EstudioCsharp/Exercise/bin/Debug/net7.0/Exercise
+/workspaces/EstudioCsharp/Exercise/bin/Debug/net7.0/Exercise.deps.json
+/workspaces/EstudioCsharp/Exercise/bin/Debug/net7.0/Exercise.runtimeconfig.json
+/workspaces/EstudioCsharp/Exercise/bin/Debug/net7.0/Exercise.dll
+/workspaces/EstudioCsharp/Exercise/bin/Debug/net7.0/Exercise.pdb
+/workspaces/EstudioCsharp/Exercise/obj/Debug/net7.0/Exercise.csproj.AssemblyReference.cache
+/workspaces/EstudioCsharp/Exercise/obj/Debug/net7.0/Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/EstudioCsharp/Exercise/obj/Debug/net7.0/Exercise.AssemblyInfoInputs.cache
+/workspaces/EstudioCsharp/Exercise/obj/Debug/net7.0/Exercise.AssemblyInfo.cs
+/workspaces/EstudioCsharp/Exercise/obj/Debug/net7.0/Exercise.csproj.CoreCompileInputs.cache
+/workspaces/EstudioCsharp/Exercise/obj/Debug/net7.0/Exercise.dll
+/workspaces/EstudioCsharp/Exercise/obj/Debug/net7.0/refint/Exercise.dll
+/workspaces/EstudioCsharp/Exercise/obj/Debug/net7.0/Exercise.pdb
+/workspaces/EstudioCsharp/Exercise/obj/Debug/net7.0/Exercise.genruntimeconfig.cache
+/workspaces/EstudioCsharp/Exercise/obj/Debug/net7.0/ref/Exercise.dll
