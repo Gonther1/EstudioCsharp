@@ -1,0 +1,15 @@
+/workspaces/EstudioCsharp/SomeExercises/bin/Debug/net7.0/SomeExercises
+/workspaces/EstudioCsharp/SomeExercises/bin/Debug/net7.0/SomeExercises.deps.json
+/workspaces/EstudioCsharp/SomeExercises/bin/Debug/net7.0/SomeExercises.runtimeconfig.json
+/workspaces/EstudioCsharp/SomeExercises/bin/Debug/net7.0/SomeExercises.dll
+/workspaces/EstudioCsharp/SomeExercises/bin/Debug/net7.0/SomeExercises.pdb
+/workspaces/EstudioCsharp/SomeExercises/obj/Debug/net7.0/SomeExercises.csproj.AssemblyReference.cache
+/workspaces/EstudioCsharp/SomeExercises/obj/Debug/net7.0/SomeExercises.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/EstudioCsharp/SomeExercises/obj/Debug/net7.0/SomeExercises.AssemblyInfoInputs.cache
+/workspaces/EstudioCsharp/SomeExercises/obj/Debug/net7.0/SomeExercises.AssemblyInfo.cs
+/workspaces/EstudioCsharp/SomeExercises/obj/Debug/net7.0/SomeExercises.csproj.CoreCompileInputs.cache
+/workspaces/EstudioCsharp/SomeExercises/obj/Debug/net7.0/SomeExercises.dll
+/workspaces/EstudioCsharp/SomeExercises/obj/Debug/net7.0/refint/SomeExercises.dll
+/workspaces/EstudioCsharp/SomeExercises/obj/Debug/net7.0/SomeExercises.pdb
+/workspaces/EstudioCsharp/SomeExercises/obj/Debug/net7.0/SomeExercises.genruntimeconfig.cache
+/workspaces/EstudioCsharp/SomeExercises/obj/Debug/net7.0/ref/SomeExercises.dll

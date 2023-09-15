@@ -33,19 +33,20 @@ internal class Program
         // }
         /* ------------------ArrayList-------------------- */
         // Contains
-        ArrayList subjects = new ArrayList {"Primera", "Segundo", "Tercera"};
+        // ArrayList subjects = new ArrayList {"Primera", "Segundo", "Tercera"};
         
-        Console.WriteLine(subjects.Contains("Primera") ? "Si esta": "No esta"); 
-        // Verifica si un elemento esta en el List o ArrayList
-        // Remove 
-        subjects.Remove("Primera"); // Elimina el primer elemento con dicho valor
-        foreach (Object iterador in subjects)
-        {
-            Console.WriteLine($"{iterador.ToString()}");
-        }
+        // Console.WriteLine(subjects.Contains("Primera") ? "Si esta": "No esta"); 
+        // // Verifica si un elemento esta en el List o ArrayList
+        // // Remove 
+        // subjects.Remove("Primera"); // Elimina el primer elemento con dicho valor
+        // foreach (Object iterador in subjects)
+        // {
+        //     Console.WriteLine($"{iterador.ToString()}");
+        // }
         // -------------------LinQ------------------------
         var frutas = new string[] {"Sandia","Fresas", "Mango", "Ciruelas", "Mango Azucar"};
         var lstMangos = frutas.Where(p=> p.StartsWith("Mango")).ToList();
         lstMangos.ForEach(item => Console.WriteLine(item));
+
     }
 }
