@@ -43,5 +43,9 @@ internal class Program
         {
             Console.WriteLine($"{iterador.ToString()}");
         }
+        // -------------------LinQ------------------------
+        var frutas = new string[] {"Sandia","Fresas", "Mango", "Ciruelas", "Mango Azucar"};
+        var lstMangos = frutas.Where(p=> p.StartsWith("Mango")).ToList();
+        lstMangos.ForEach(item => Console.WriteLine(item));
     }
 }
